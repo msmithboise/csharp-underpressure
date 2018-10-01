@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.AssemblyInfo.cs
+/Users/msmith/source/codeworks/csunderpressure/bin/Debug/netcoreapp2.1/csunderpressure.deps.json
+/Users/msmith/source/codeworks/csunderpressure/bin/Debug/netcoreapp2.1/csunderpressure.runtimeconfig.json
+/Users/msmith/source/codeworks/csunderpressure/bin/Debug/netcoreapp2.1/csunderpressure.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/csunderpressure/bin/Debug/netcoreapp2.1/csunderpressure.dll
+/Users/msmith/source/codeworks/csunderpressure/bin/Debug/netcoreapp2.1/csunderpressure.pdb
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.dll
+/Users/msmith/source/codeworks/csunderpressure/obj/Debug/netcoreapp2.1/csunderpressure.pdb
